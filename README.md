@@ -40,3 +40,9 @@
 1. 首先是处理将 cef 浏览器窗口绘制到桌面时，为了实现触发网页 hover 的时候，在发送鼠标消息时 (PostMessage)， Windows 会自动产生一个鼠标离开的事件，导致排查了许久
 2. python 的一个坑，初始化类数组时，有一种写法，python 会在同一内存地址中初始化所有的类数组，结果导致了有时候类数组中的某一对象为 None 时，会莫名引用同一内存地址中其他对象的数值
 
+
+
+
+
+[![wHWhtg.png](https://s1.ax1x.com/2020/09/21/wHWhtg.png)](https://imgchr.com/i/wHWhtg)
+[![wHWfAS.png](https://s1.ax1x.com/2020/09/21/wHWfAS.png)](https://imgchr.com/i/wHWfAS)
