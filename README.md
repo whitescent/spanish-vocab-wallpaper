@@ -20,7 +20,7 @@
 
 #### 使用方法:
 
-1. 使用项目中 existence/run/run.exe 便会运行程序.
+1. 使用项目中 existence/run/run.exe 便会运行程序
 
 
 
