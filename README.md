@@ -10,7 +10,7 @@
 
 
 
-#### 所有信息来源*:  http://www.esdict.cn/
+#### 所有信息来源:  http://www.esdict.cn/
 
 
 
