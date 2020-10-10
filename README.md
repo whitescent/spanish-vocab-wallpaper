@@ -2,7 +2,7 @@
 
 
 
-# [简体中文](https://github.com/Anteayer/spanish-vocab-wallpaper)                            [Español](https://github.com/Anteayer/spanish-vocab-wallpaper/tree/master/docs)
+# [简体中文](https://github.com/Anteayer/spanish-vocab-wallpaper)                                [Español](https://github.com/Anteayer/spanish-vocab-wallpaper/tree/master/docs)
 
 
 
