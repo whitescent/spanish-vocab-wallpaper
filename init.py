@@ -14,7 +14,7 @@ def SetImgPixel(width, height, pic):
             pic.putpixel((i, k), color)
 
 
-img = Image.open(r'C:\Users\Anteayer\Documents\Misc\wall.jpg')
+img = Image.open(r'C:\wall.jpg')
 x, y = img.size
 
 BlackTrans = Image.new("RGBA", (x, y), "Black")
