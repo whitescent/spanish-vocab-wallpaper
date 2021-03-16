@@ -16,7 +16,7 @@
 
 
 
-#### Los puntos de advertencia:
+#### Cuidado
 
 1. Si necesita cerrar el programa, finalice run.exe desde el administrador de tareas
 2. Cefpython3 solo admite hasta Python 3.7
